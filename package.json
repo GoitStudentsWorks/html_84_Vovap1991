@@ -1,11 +1,11 @@
 {
-  "name": "final-project-group-8",
+  "name": "html_84_Vovap1991",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/final-project-group-8/",
+    "build": "vite build --base=/html_84_Vovap1991",
     "preview": "vite preview"
   },
   "devDependencies": {
